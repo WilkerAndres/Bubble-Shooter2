@@ -11,4 +11,4 @@
 
 ## Links
 
-- https://github.com/JorgePerezGarcia/UnityBubbleShooter
+- https://github.com/WilkerAndres/Bubble-Shooter2
